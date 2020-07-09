@@ -1,0 +1,12 @@
+{
+  "name": "dev4u",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/frf/dev4u-node-server.git",
+  "author": "Fabio Rocha",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.15.1",
+    "graphql": "^15.3.0"
+  }
+}
