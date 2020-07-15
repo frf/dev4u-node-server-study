@@ -7,6 +7,6 @@ module.exports = {
   },
 
   Mutation: {
-    createUser: (_, {name, email}) => User.create({name, email}),
+    createUser: (_, {name, email, password}) => User.create({name, email, password}),
   }
 }
